@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sensor" size="5.000000 5.393518" />
+    <ImageTarget name="level" size="5.000000 5.000000" />
+    <ImageTarget name="hammer" size="5.000000 5.453488" />
+    <ImageTarget name="bulb" size="5.000000 5.000000" />
+    <ImageTarget name="phone" size="5.000000 10.833333" />
+  </Tracking>
+</QCARConfig>
